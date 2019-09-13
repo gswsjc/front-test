@@ -1,3 +1,5 @@
+![https://www.gsw.com.br/](https://www.gsw.com.br/templates/gsw_solucoes/images/logo-01.svg)
+
 # Front Interview #
 
 Entrevista para vaga de front-end.
@@ -35,5 +37,4 @@ Deve-se desenvolver uma interface web de um sistema de apontamento de horas.
  
 ### Entrega ###
 
-Após ler os requisitos, deve-se enviar um e-mail ao seu entrevistador com o prazo para terminar e criar uma branch com o seu nome e sobrenome em kebab case.
-Dado o prazo, a entrega deve ser feita via pull request para a master desse repositório.
+Após finalizado o projeto, mande um e-mail para **candidato@gsw.com.br** com seu currículo e a url para o seu repositório do teste e aguarde o RH entrar em contato.
